@@ -6,8 +6,8 @@ This blog aimed at the machine learning and data science enthusiasts, who want t
 
 **Two goals underlie this blog:**
 
-* To explain which ideas are relevant and useful from a data science perspective, which is less so, and why.
+* To explain which ideas are relevant and useful from a data analysis perspective and which is less useful and why.
 
-* Implement the concept with Python to understand better from the programmer perspective.
+* Implement the concepts in Python to understand better from the programmer perspective.
 
 ## Structure of Data | Day 1  
